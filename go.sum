@@ -1,0 +1,4 @@
+github.com/badgerodon/lalg v0.0.0-20131221025232-d98d02968c5b h1:DebipT/HrvmO+hGE6LPnphZ28+fe5dkTjOgxND+wDmM=
+github.com/badgerodon/lalg v0.0.0-20131221025232-d98d02968c5b/go.mod h1:KJE7fIWVRfU1GQxeBHFJlUtrXsxboK2KxbyzTEjLWbo=
+github.com/badgerodon/quadprog v0.0.0-20170722135126-99da70fa15d4 h1:Kd8/F1rpafyZ9qn/yumntlq6ugWIpm3rzeeMKim61K0=
+github.com/badgerodon/quadprog v0.0.0-20170722135126-99da70fa15d4/go.mod h1:A9oxBime5oC2WvJ9fzaVUby/g6x+2AZDm6WvLthVRbs=
